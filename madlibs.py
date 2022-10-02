@@ -9,3 +9,5 @@ madlib = f"Cricket is like a {noun}. Did you know that {celeb} averaged {num} in
 {exclamation}. {celeb2} likes cricket becuase it is {adj}"
 
 print(madlib)
+
+print("i like cheese")
